@@ -1,5 +1,3 @@
-
-
 # 1 Selection Sort Projesi
 
 [Selection Sort Projesi](https://github.com/EvrenCILGIN/patika-Veri-Yap-lar--ve-Algoritmalar/blob/main/Selection%20Sort%20Projesi/Selection-Sort-Projesi.md)
@@ -13,7 +11,6 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
 3.  Best case: Aradığımız sayının dizinin en başında olması.
 
 **[7,3,5,8,2,9,4,15,6**] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
-
 
 # 2 Merge Sort Projesi
 [Merge Sort Projesi](https://github.com/EvrenCILGIN/patika-Veri-Yap-lar--ve-Algoritmalar/blob/main/Merge%20Sort%20Projesi/Merge-Sort-Projesi.md)
