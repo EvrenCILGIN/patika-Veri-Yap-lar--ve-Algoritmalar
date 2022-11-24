@@ -1,4 +1,5 @@
 
+
 # 1 Selection Sort Projesi
 
 [Selection Sort Projesi](https://github.com/EvrenCILGIN/patika-Veri-Yap-lar--ve-Algoritmalar/blob/main/Selection%20Sort%20Projesi/Selection-Sort-Projesi.md)
@@ -21,4 +22,10 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
 -   Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 -   Big-O gösterimini yazınız.
 
+# 3 Binary Search Tree Projesi
+[Binary Search Tree Projesi Projesi](https://github.com/EvrenCILGIN/patika-Veri-Yap-lar--ve-Algoritmalar/blob/main/Binary%20Search%20Tree%20Projesi/Binary-Search-Tree-Projesi.md)
+
+**[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]** dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+**Örnek:**  root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
