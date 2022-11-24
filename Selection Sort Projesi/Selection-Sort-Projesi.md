@@ -25,7 +25,9 @@
 [2,6,16,**18**,22,27] 
 
 **Average case: Aradığımız sayının ortada olması**
+
 ~~Worst case: Aradığımız sayının sonda olması~~
+
 ~~Best case: Aradığımız sayının dizinin en başında olması.~~
 
 ***
