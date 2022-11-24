@@ -15,7 +15,7 @@ Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden
 
 
 # 2 Merge Sort Projesi
-[# Merge Sort Projesi](https://github.com/EvrenCILGIN/patika-Veri-Yap-lar--ve-Algoritmalar/blob/main/Merge%20Sort%20Projesi/Merge-Sort-Projesi.md)
+[Merge Sort Projesi](https://github.com/EvrenCILGIN/patika-Veri-Yap-lar--ve-Algoritmalar/blob/main/Merge%20Sort%20Projesi/Merge-Sort-Projesi.md)
 
 **[16,21,11,8,12,22]** -> Merge Sort
 -   Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
