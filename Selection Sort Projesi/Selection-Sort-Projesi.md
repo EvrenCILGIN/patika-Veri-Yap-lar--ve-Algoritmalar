@@ -1,18 +1,20 @@
-# Selection Sort Projesi
 
+# Selection Sort Projesi
 ### [22,27,16,2,18,6] -> Insertion Sort
 ***
 #### 1) Verilen dizinin sort türüne göre aşamalarını yazınız.
 
-1. [2,27,16,22,18,6] -> ```2``` dizinin küçük sayısıdır, en başa alabilmek için ```22``` ile yer değiştirir.
-2. [2,6,16,22,18,27] -> İkinci küçük sayı ```6```'dır ikinci sıraya almak için ```27``` ile yer değiştirir.
-3. [2,6,16,18,22,27] -> Üçüncü sayı ```16```'dır, sıralaması doğru olduğu için herhangi bir değişiklik yapılmaz. Dördüncü sayı ```18```'dir ve sıralamaya uygun olması için ```22``` ile yer değiştirir. Beşinci ve altıncı sayı sıralamaya uygun olduğundan sıralamada herhangi bir değişiklik yapılmaz.
+1. [**2**,27,16,**22**,18,6] -> `2` dizinin küçük sayısıdır, en başa alabilmek için `22` ile yer değiştirir.
+2. [2,**6**,16,22,18,**27**] -> İkinci küçük sayı `6`'dır ikinci sıraya almak için `27` ile yer değiştirir.
+3. [2,6,**16**,18,22,27] -> Üçüncü sayı `16`'dır, sıralaması doğru olduğu için herhangi bir değişiklik yapılmaz. 
+4.  [2,6,16,**18**,22,27] -> Dördüncü sayı `18`'dir sıralaması doğru olduğu için herhangi bir değişiklik yapılmaz. 
+5.  [2,6,16,18,**22**,27] -> Beşinci sayı `22`'dir sıralaması doğru olduğu için herhangi bir değişiklik yapılmaz. 
+6. [2,6,16,18,22,**27**] -> Altıncı sayı `27`'dir sıralaması doğru olduğu için herhangi bir değişiklik yapılmaz. 
+
 *** 
 
+#### 2) Big-O gösterimini yazınız.
 
-
-
-Big-O gösterimini yazınız.
 
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
